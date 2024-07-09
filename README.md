@@ -1,5 +1,5 @@
 # rgbHash
-rgbHash is a algorithm that utilizes RGB data from screenshots to generate a unique key and transform input text into a non-reversible hash. This approach provides a non-cryptographic method for custom data transformation tasks and non-security-related use cases, inspiration from Cloudflare's innovative encryption techniques.
+rgbHash is a non-cryptographic algorithm that utilizes RGB data from screenshots to generate a unique key and transform input text into a non-reversible hash. inspired from Cloudflare's innovative encryption techniques.
 
 
 ## Features
